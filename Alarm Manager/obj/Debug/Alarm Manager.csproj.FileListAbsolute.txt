@@ -1,0 +1,38 @@
+C:\Users\Hp\Documents\Visual Studio 2013\Modern\Xam\Alarm Manager\Alarm Manager\bin\Debug\Alarm Manager.dll
+C:\Users\Hp\Documents\Visual Studio 2013\Modern\Xam\Alarm Manager\Alarm Manager\bin\Debug\Alarm Manager.pdb
+C:\Users\Hp\Documents\Visual Studio 2013\Modern\Xam\Alarm Manager\Alarm Manager\bin\Debug\Alarm_Manager.Alarm_Manager.apk
+C:\Users\Hp\Documents\Visual Studio 2013\Modern\Xam\Alarm Manager\Alarm Manager\bin\Debug\Alarm_Manager.Alarm_Manager-Signed.apk
+C:\Users\Hp\Documents\Visual Studio 2013\Modern\Xam\Alarm Manager\Alarm Manager\obj\Debug\Alarm Manager.dll
+C:\Users\Hp\Documents\Visual Studio 2013\Modern\Xam\Alarm Manager\Alarm Manager\obj\Debug\Alarm Manager.pdb
+C:\Users\Hp\Documents\Visual Studio 2013\Modern\Xam\Alarm Manager\Alarm Manager\obj\Debug\android\bin\Alarm_Manager.Alarm_Manager.apk
+C:\Users\Hp\Documents\Visual Studio 2013\Modern\Xam\Alarm Manager\Alarm Manager\obj\Debug\res\layout\main.xml
+C:\Users\Hp\Documents\Visual Studio 2013\Modern\Xam\Alarm Manager\Alarm Manager\obj\Debug\res\values\strings.xml
+C:\Users\Hp\Documents\Visual Studio 2013\Modern\Xam\Alarm Manager\Alarm Manager\obj\Debug\res\drawable\icon.png
+C:\Users\Hp\Documents\Visual Studio 2013\Modern\Xam\Alarm Manager\Alarm Manager\obj\Debug\R.cs.flag
+C:\Users\Hp\Documents\Visual Studio 2013\Modern\Xam\Alarm Manager\Alarm Manager\obj\Debug\uploadflags.txt
+C:\Users\Hp\Documents\Visual Studio 2013\Modern\Xam\Alarm Manager\Alarm Manager\bin\Debug\Alarm Manager.dll.mdb
+C:\Users\Hp\Documents\Visual Studio 2013\Modern\Xam\Alarm Manager\Alarm Manager\bin\Debug\Java.Interop.dll.mdb
+C:\Users\Hp\Documents\Visual Studio 2013\Modern\Xam\Alarm Manager\Alarm Manager\bin\Debug\Mono.Android.dll.mdb
+C:\Users\Hp\Documents\Visual Studio 2013\Modern\Xam\Alarm Manager\Alarm Manager\bin\Debug\mscorlib.dll.mdb
+C:\Users\Hp\Documents\Visual Studio 2013\Modern\Xam\Alarm Manager\Alarm Manager\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\Hp\Documents\Visual Studio 2013\Modern\Xam\Alarm Manager\Alarm Manager\bin\Debug\System.Core.dll.mdb
+C:\Users\Hp\Documents\Visual Studio 2013\Modern\Xam\Alarm Manager\Alarm Manager\bin\Debug\System.dll.mdb
+C:\Users\Hp\Documents\Visual Studio 2013\Modern\Xam\Alarm Manager\Alarm Manager\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\Hp\Documents\Visual Studio 2013\Modern\Xam\Alarm Manager\Alarm Manager\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\Hp\Documents\Visual Studio 2013\Modern\Xam\Alarm Manager\Alarm Manager\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\Hp\Documents\Visual Studio 2013\Modern\Xam\Alarm Manager\Alarm Manager\bin\Debug\System.Xml.dll.mdb
+C:\Users\Hp\Documents\Visual Studio 2013\Modern\Xam\Alarm Manager\Alarm Manager\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\Hp\Documents\Visual Studio 2013\Modern\Xam\Alarm Manager\Alarm Manager\obj\Debug\android\assets\Alarm Manager.dll.mdb
+C:\Users\Hp\Documents\Visual Studio 2013\Modern\Xam\Alarm Manager\Alarm Manager\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\Hp\Documents\Visual Studio 2013\Modern\Xam\Alarm Manager\Alarm Manager\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\Hp\Documents\Visual Studio 2013\Modern\Xam\Alarm Manager\Alarm Manager\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\Hp\Documents\Visual Studio 2013\Modern\Xam\Alarm Manager\Alarm Manager\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\Hp\Documents\Visual Studio 2013\Modern\Xam\Alarm Manager\Alarm Manager\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\Hp\Documents\Visual Studio 2013\Modern\Xam\Alarm Manager\Alarm Manager\obj\Debug\android\assets\System.dll.mdb
+C:\Users\Hp\Documents\Visual Studio 2013\Modern\Xam\Alarm Manager\Alarm Manager\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\Hp\Documents\Visual Studio 2013\Modern\Xam\Alarm Manager\Alarm Manager\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\Hp\Documents\Visual Studio 2013\Modern\Xam\Alarm Manager\Alarm Manager\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\Hp\Documents\Visual Studio 2013\Modern\Xam\Alarm Manager\Alarm Manager\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\Hp\Documents\Visual Studio 2013\Modern\Xam\Alarm Manager\Alarm Manager\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\Hp\Documents\Visual Studio 2013\Modern\Xam\Alarm Manager\Alarm Manager\obj\Debug\Alarm Manager.dll.mdb
+C:\Users\Hp\Documents\Visual Studio 2013\Modern\Xam\Alarm Manager\Alarm Manager\bin\Debug\Alarm Manager.dll.mdb

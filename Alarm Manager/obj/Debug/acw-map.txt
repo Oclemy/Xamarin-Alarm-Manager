@@ -1,0 +1,8 @@
+Alarm_Manager.MainActivity, Alarm Manager;md569b30fef8b1e0f2bb35ee523f26df92d.MainActivity
+Alarm_Manager.MainActivity, Alarm Manager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md569b30fef8b1e0f2bb35ee523f26df92d.MainActivity
+Alarm_Manager.MainActivity;md569b30fef8b1e0f2bb35ee523f26df92d.MainActivity
+alarm_manager.MainActivity;md569b30fef8b1e0f2bb35ee523f26df92d.MainActivity
+Alarm_Manager.MyReceiver, Alarm Manager;md569b30fef8b1e0f2bb35ee523f26df92d.MyReceiver
+Alarm_Manager.MyReceiver, Alarm Manager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md569b30fef8b1e0f2bb35ee523f26df92d.MyReceiver
+Alarm_Manager.MyReceiver;md569b30fef8b1e0f2bb35ee523f26df92d.MyReceiver
+alarm_manager.MyReceiver;md569b30fef8b1e0f2bb35ee523f26df92d.MyReceiver
